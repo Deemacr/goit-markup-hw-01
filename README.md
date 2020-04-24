@@ -1,12 +1,5 @@
-И?рбис[1], или сне?жный барс, или снежный леопард[2] 
-(лат. Panthera uncia, ранее — (лат. Uncia uncia) — крупное хищное млекопитающее семейства кошачьих, 
-обитающее в горах Центральной Азии.
+The snow leopard (Panthera uncia), also known as the ounce, is a large cat native to the mountain ranges of Central and South Asia. It is listed as Vulnerable on the IUCN Red List because the global population is estimated to number less than 10,000 mature individuals and is expected to decline about 10% by 2040. It is threatened by poaching and habitat destruction following infrastructural developments.[1] It inhabits alpine and subalpine zones at elevations from 3,000 to 4,500 m (9,800 to 14,800 ft), ranging from eastern Afghanistan to Mongolia and western China. In the northern range countries, it also lives at lower elevations.[2][3]
 
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/275px-Irbis4.JPG)
 
-Ирбис отличается тонким, длинным, гибким телом, относительно короткими лапами, 
-небольшой головой и очень длинным хвостом. Достигая вместе с хвостом длины 200—230 см, весит до 55 кг.
- Окраска меха светлая дымчато-серая с кольцеобразными и сплошными тёмными пятнами.
-
-В силу труднодоступности местообитания и низкой плотности вида до сих пор остаются малоисследованными 
-многие аспекты его биологии.
+Taxonomically, the snow leopard was long classified in the monotypic genus Uncia.[4] Since phylogenetic studies revealed the relationships among Panthera species, it is considered a member of this genus.[5][6][7] Two subspecies were described based on morphological differences, but genetic differences between the two have not been confirmed. It is therefore regarded a monotypic species.[8]
